@@ -61,7 +61,7 @@ At the moment I want to improve my skills in front-end development, improve my s
 **https://www.frootiz.ru/** - In this project, I was engaged in layout and configuration of functionality on CMS Wordpress.
 
 ## Education
- BNTU Faculty of Information Technology and Work Technology 2007.
+BNTU Faculty of Information Technology and Work Technology 2007.
 
 ## English proficiency
 А2 Pre-Intermediate.
