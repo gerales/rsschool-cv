@@ -7,11 +7,15 @@
 [![full photo](https://i.ibb.co/f02Nt2k/IMG-1049-2.jpg)](https://i.ibb.co/f02Nt2k/IMG-1049-2.jpg)
  
 
-[Minsk city][dill]
+**Minsk city**
 
-E-mail: gerales@rambler.ru
-Phone: [+375445794592][dill]
-Telegram: [@An_jei][dill]
+**E-mail:** gerales@rambler.ru
+
+
+**Phone:** *+375445794592*
+
+
+**Telegram:** *@An_jei*
 
 ## About me
 
@@ -54,7 +58,7 @@ At the moment I want to improve my skills in front-end development, improve my s
 
 ## Development
 
-[https://www.frootiz.ru/][dill] - In this project, I was engaged in layout and configuration of functionality on CMS Wordpress.
+**https://www.frootiz.ru/** - In this project, I was engaged in layout and configuration of functionality on CMS Wordpress.
 
 ## Education
  BNTU Faculty of Information Technology and Work Technology 2007.
