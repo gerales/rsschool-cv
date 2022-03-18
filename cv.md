@@ -58,7 +58,7 @@ At the moment I want to improve my skills in front-end development, improve my s
 
 ## Development
 
-**https://www.frootiz.ru/** - In this project, I was engaged in layout and configuration of functionality on CMS Wordpress.
+**[https://www.frootiz.ru/](https://www.frootiz.ru/)** - In this project, I was engaged in layout and configuration of functionality on CMS Wordpress.
 
 ## Education
 BNTU Faculty of Information Technology and Work Technology 2007.
